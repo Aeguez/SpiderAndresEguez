@@ -1,0 +1,15 @@
+C:\repos\C#\Spider\SpiderAndresEguez\bin\Debug\net6.0\Spider.exe
+C:\repos\C#\Spider\SpiderAndresEguez\bin\Debug\net6.0\Spider.deps.json
+C:\repos\C#\Spider\SpiderAndresEguez\bin\Debug\net6.0\Spider.runtimeconfig.json
+C:\repos\C#\Spider\SpiderAndresEguez\bin\Debug\net6.0\Spider.dll
+C:\repos\C#\Spider\SpiderAndresEguez\bin\Debug\net6.0\Spider.pdb
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.csproj.AssemblyReference.cache
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.AssemblyInfoInputs.cache
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.AssemblyInfo.cs
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.csproj.CoreCompileInputs.cache
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.dll
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\refint\Spider.dll
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.pdb
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\Spider.genruntimeconfig.cache
+C:\repos\C#\Spider\SpiderAndresEguez\obj\Debug\net6.0\ref\Spider.dll
